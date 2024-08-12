@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Harish Krishnakumar 👋
 
-<!--
-**harishk30/harishk30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a sophomore at Princeton University, majoring in Electrical and Computer Engineering, specifically concentrating in Quantum Information and Applied Physics.
 
-Here are some ideas to get you started:
+### 🌌  Current Work
+I'm working on astrophysics research, using machine learning and statistics to learn more about the universe. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻  Side Projects
+One of my recent favorites is syncing LED lights to Spotify songs!
+
+### 🔗  Connect
+- [harishkk.com](http://harishkk.com)
+- 📧 hkrishnakumar@princeton.edu
